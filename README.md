@@ -53,3 +53,7 @@ This is Phase 1 (MVP) implementation with basic functionality:
 ## License
 
 MIT
+
+## Testing
+
+Added test line for demonstration.

@@ -1,1 +1,11 @@
 /target
+**/*.rs.bk
+Cargo.lock
+*.pdb
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+*.iml
+src/bin/test_git.rs
